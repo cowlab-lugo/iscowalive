@@ -1,9 +1,6 @@
 About iscowalive
 ================
 
-.. contents::
-
-
 From where does it come from?
 -----------------------------
 
