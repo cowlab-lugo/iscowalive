@@ -9,7 +9,7 @@ pep8
 # Test dependencies
 pytest
 pytest-cov
-pytest-xdist
+pytest-runner
 pytest-pep8
 coverage
 

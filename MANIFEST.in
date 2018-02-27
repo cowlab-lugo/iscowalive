@@ -3,4 +3,4 @@ include CHANGELOG
 include LICENSE
 include README.md
 include requirements.txt
-recursive-include bin/* iscowalive/*.py requirements/*
+recursive-include bin/* iscowalive/*.py requirements/* docs/* tests/*

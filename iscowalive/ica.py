@@ -8,6 +8,7 @@ def check(url):
             r = requests.get(url)
             if(r.status_code is 200):
                 return True
+            return False
         else:
             return False
     except:

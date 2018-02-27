@@ -4,3 +4,6 @@ envs/
 venvs/
 iscowalive.egg-info/
 *.pyc
+__pycache__
+.pytest_cache
+.coverage
