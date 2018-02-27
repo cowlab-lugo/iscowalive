@@ -1,0 +1,5 @@
+build/
+borrame/
+env/
+venv/
+*.pyc
