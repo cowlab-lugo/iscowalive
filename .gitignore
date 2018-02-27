@@ -1,7 +1,6 @@
 build/
 dist/
-borrame/
-env/
-venv/
+envs/
+venvs/
 iscowalive.egg-info/
 *.pyc
