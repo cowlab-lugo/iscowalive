@@ -15,6 +15,9 @@ Contents:
    :maxdepth: 2
 
    about
+   install
+   using
+   tests
 
 
 
